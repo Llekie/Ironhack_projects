@@ -1,0 +1,198 @@
+﻿Pays;Code2;Code3;Country
+Afrique du Sud;ZA;ZAF;South Africa
+Afghanistan;AF;AFG;Afghanistan
+Albanie;AL;ALB;Albania
+Algérie;DZ;DZA;Algeria
+Allemagne;DE;DEU;Germany
+Andorre;AD;AND;Andorra
+Angola;AO;AGO;Angola
+Antigua-et-Barbuda;AG;ATG;Antigua and Barbuda
+Arabie Saoudite;SA;SAU;Saudi Arabia
+Argentine;AR;ARG;Argentina
+Arménie;AM;ARM;Armenia
+Australie;AU;AUS;Australia
+Autriche;AT;AUT;Austria
+Azerbaïdjan;AZ;AZE;Azerbaijan
+Bahamas;BS;BHS;Bahamas
+Bahreïn;BH;BHR;Bahrain
+Bangladesh;BD;BGD;Bangladesh
+Barbade;BB;BRB;Barbados
+Belgique;BE;BEL;Belgium
+Belize;BZ;BLZ;Belize
+Bénin;BJ;BEN;Benin
+Bhoutan;BT;BTN;Bhutan
+Biélorussie;BY;BLR;Biélorussie
+Birmanie;MM;MMR;Birmanie
+Bolivie;BO;BOL;Bolivia (Plurinational State of)
+Bosnie-Herzégovine;BA;BIH;Bosnia and Herzegovina
+Botswana;BW;BWA;Botswana
+Brésil;BR;BRA;Brazil
+Brunei;BN;BRN;Brunei Darussalam
+Bulgarie;BG;BGR;Bulgaria
+Burkina Faso;BF;BFA;Burkina Faso
+Burundi;BI;BDI;Burundi
+Cambodge;KH;KHM;Cambodia
+Cameroun;CM;CMR;Cameroon
+Canada;CA;CAN;Canada
+Cap-Vert;CV;CPV;Cabo Verde
+Chili;CL;CHL;Chile
+Chine;CN;CHN;China
+Chypre;CY;CYP;Cyprus
+Colombie;CO;COL;Colombia
+Comores;KM;COM;Comoros
+Corée du Nord;KP;PRK;Korea (Democratic People's Republic of)
+Corée du Sud;KR;KOR;Korea (Republic of)
+Costa Rica;CR;CRI;Costa Rica
+Côte d’Ivoire;CI;CIV;Cote d’Ivoire
+Croatie;HR;HRV;Croatia
+Cuba;CU;CUB;Cuba
+Danemark;DK;DNK;Denmark
+Djibouti;DJ;DJI;Djibouti
+Dominique;DM;DMA;Dominican Republic
+Égypte;EG;EGY;Egypt
+Émirats arabes unis;AE;ARE;United Arab Emirates
+Équateur;EC;ECU;Ecuador
+Érythrée;ER;ERI;Érythrée
+Espagne;ES;ESP;Spain
+Eswatini;SZ;SWZ;Eswatini
+Estonie;EE;EST;Estonia
+États-Unis;US;USA;United States of America
+Éthiopie;ET;ETH;Ethiopia
+Fidji;FJ;FJI;Fiji
+Finlande;FI;FIN;Finland
+France;FR;FRA;France
+Gabon;GA;GAB;Gabon
+Gambie;GM;GMB;Gambia
+Géorgie;GE;GEO;Georgia
+Ghana;GH;GHA;Ghana
+Grèce;GR;GRC;Greece
+Grenade;GD;GRD;Grenada
+Guatemala;GT;GTM;Guatemala
+Guinée;GN;GIN;Guinea
+Guinée équatoriale;GQ;GNQ;Equatorial Guinea
+Guinée-Bissau;GW;GNB;Guinea-Bissau
+Guyana;GY;GUY;Guyana
+Haïti;HT;HTI;Haiti
+Honduras;HN;HND;Honduras
+Hongrie;HU;HUN;Hungary
+Îles Cook;CK;COK;Cook Islands
+Îles Marshall;MH;MHL;Marshall islands
+Inde;IN;IND;India
+Indonésie;ID;IDN;Indonesia
+Irak;IQ;IRQ;Iraq
+Iran;IR;IRN;Iran
+Irlande;IE;IRL;Irlande
+Islande;IS;ISL;Iceland
+Israël;IL;ISR;Israel
+Italie;IT;ITA;Italy
+Jamaïque;JM;JAM;Jamaica
+Japon;JP;JPN;Japan
+Jordanie;JO;JOR;Jordan
+Kazakhstan;KZ;KAZ;Kazakhstan
+Kenya;KE;KEN;Kenya
+Kirghizistan;KG;KGZ;Kyrgyzstan
+Kiribati;KI;KIR;Kiribati
+Koweït;KW;KWT;Koweït
+Laos;LA;LAO;Lao People's Democratic Republic
+Lesotho;LS;LSO;Lesotho
+Lettonie;LV;LVA;Lettonie
+Liban;LB;LBN;Lebanon
+Liberia;LR;LBR;Liberia
+Libye;LY;LBY;Libya
+Liechtenstein;LI;LIE;Liechtenstein
+Lituanie;LT;LTU;Lithuania
+Luxembourg;LU;LUX;Luxembourg
+Macédoine;MK;MKD;Macedonia (the former Yugoslav Republic of)
+Madagascar;MG;MDG;Madagascar
+Malaisie;MY;MYS;Malaysia
+Malawi;MW;MWI;Malawi
+Maldives;MV;MDV;Maldives
+Mali;ML;MLI;Mali
+Malte;MT;MLT;Malte
+Maroc;MA;MAR;Morocco
+Maurice;MU;MUS;Mauritius
+Mauritanie;MR;MRT;Mauritania
+Mexique;MX;MEX;Mexico
+Micronésie;FM;FSM;Micronesia (Federated States of)
+Moldavie;MD;MDA;Moldova (Republic of)
+Monaco;MC;MCO;Monaco
+Mongolie;MN;MNG;Mongolia
+Monténégro;ME;MNE;Montenegro
+Mozambique;MZ;MOZ;Mozambique
+Namibie;NA;NAM;Namibia
+Nauru;NR;NRU;Nauru
+Népal;NP;NPL;Nepal
+Nicaragua;NI;NIC;Nicaragua
+Niger;NE;NER;Niger
+Nigeria;NG;NGA;Nigeria
+Niue;NU;NIU;Niue
+Norvège;NO;NOR;Norway
+Nouvelle-Zélande;NZ;NZL;New Zealand
+Oman;OM;OMN;Oman
+Ouganda;UG;UGA;Uganda
+Ouzbékistan;UZ;UZB;Uzbekistan
+Pakistan;PK;PAK;Pakistan
+Palaos;PW;PLW;Palau
+Palestine;PS;PSE;Palestinian Territories
+Panama;PA;PAN;Panama
+Papouasie-Nouvelle-Guinée;PG;PNG;Papuasie-Nouvelle-Guinee
+Paraguay;PY;PRY;Paraguay
+Pays-Bas;NL;NLD;Netherlands
+Pérou;PE;PER;Peru
+Philippines;PH;PHL;Philippines
+Pologne;PL;POL;Poland
+Portugal;PT;PRT;Portugal
+Qatar;QA;QAT;Qatar
+République centrafricaine;CF;CAF;République centrafricaine
+République démocratique du Congo;CD;COD;Congo (Democratic Republic of the)
+République Dominicaine;DO;DOM;Dominicaine
+République du Congo;CG;COG;Congo
+République tchèque;CZ;CZE;Czech Republic
+Roumanie;RO;ROU;Romania
+Royaume-Uni;GB;GBR;United Kingdom of Great Britain and Northern Ireland
+Russie;RU;RUS;Russian Federation
+Rwanda;RW;RWA;Rwanda
+Saint-Kitts-et-Nevis;KN;KNA;Saint Kitts and Nevis
+Saint-Vincent-et-les-Grenadines;VC;VCT;Saint Vincent and the Grenadines
+Sainte-Lucie;LC;LCA;Saint Lucia
+Saint-Marin;SM;SMR;San Marin
+Salomon;SB;SLB;Island Salomon
+Salvador;SV;SLV;El Salvador
+Samoa;WS;WSM;Samoa
+São Tomé-et-Principe;ST;STP;Sao Tome-et-Principe
+Sénégal;SN;SEN;Senegal
+Serbie;RS;SRB;Serbia
+Seychelles;SC;SYC;Seychelles
+Sierra Leone;SL;SLE;Sierra Leone
+Singapour;SG;SGP;Singapour
+Slovaquie;SK;SVK;Slovakia
+Slovénie;SI;SVN;Slovenia
+Somalie;SO;SOM;Somalia
+Soudan;SD;SDN;Sudan
+Soudan du Sud;SS;SSD;South Sudan
+Sri Lanka;LK;LKA;Sri Lanka
+Suède;SE;SWE;Sweden
+Suisse;CH;CHE;Switzerland
+Suriname;SR;SUR;Suriname
+Syrie;SY;SYR;Syria
+Tadjikistan;TJ;TJK;Tajikistan
+Tanzanie;TZ;TZA;Tanzania United Republic of
+Tchad;TD;TCD;Chad
+Thaïlande;TH;THA;Thailand
+Timor oriental;TL;TLS;Timor
+Togo;TG;TGO;Togo
+Tonga;TO;TON;Tonga
+Trinité-et-Tobago;TT;TTO;Trinidad and Tobago
+Tunisie;TN;TUN;Tunisia
+Turkménistan;TM;TKM;Turkmenistan
+Turquie;TR;TUR;Turkey
+Tuvalu;TV;TUV;Tuvalu
+Ukraine;UA;UKR;Ukraine
+Uruguay;UY;URY;Uruguay
+Vanuatu;VU;VUT;Vanuatu
+Vatican;VA;VAT;Vatican
+Venezuela;VE;VEN;Venezuela
+Viêt Nam;VN;VNM;Viet Nam
+Yémen;YE;YEM;Yemen
+Zambie;ZM;ZMB;Zambia
+Zimbabwe;ZW;ZWE;Zimbabwe
